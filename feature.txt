@@ -1,2 +1,2 @@
-A feature apperently
+A feature apperently, which is now fixed.
 anotherdevchange
